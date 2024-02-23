@@ -8,8 +8,8 @@ export const SIDENAV_ITEMS: SideNavItem[] = [
     path: "/",
   },
   {
-    title: "Coberturas",
-    path: "/coberturas",
+    title: "Photo Sessions",
+    path: "/photo-sessions",
   },
   {
     title: "Proyectos",
